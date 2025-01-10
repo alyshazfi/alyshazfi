@@ -1,6 +1,6 @@
 - Hi, I’m @alyshazfi
-- I’m an undergraduate informatics student
-- I'm interested in data analytics, processing, as well as visualization, like data scientist and data analyst.
+- I’m a freshgraduate informatics student
+- I'm interested in data analytics, data visualization, data processing, and data scientist.
 
 <!---
 alyshazfi/alyshazfi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
